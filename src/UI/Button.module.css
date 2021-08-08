@@ -1,0 +1,9 @@
+.button{
+    padding: 5px;
+    margin: 8px auto;
+    width: 98%;
+    border: 1px solid rgb(152, 215, 245);
+    font-size: 16px;
+    font-family: inherit;
+    border-radius: 13px;
+}

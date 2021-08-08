@@ -1,0 +1,8 @@
+.left{
+    flex: 50%;
+    padding: 20px;
+}
+.right{
+    flex: 50%;
+    padding: 20px;
+}
